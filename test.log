@@ -1,0 +1,9 @@
+Command 'lss' not found, but there are 15 similar ones.
+Command 'lss' not found, but there are 15 similar ones.
+total 24
+-rw-rw-r-- 1 bhanuteja bhanuteja  32 Apr 30 22:14 01_firstprog.sh
+-rw-rw-r-- 1 bhanuteja bhanuteja  51 May  6 00:27 02-variables.sh
+-rw-rw-r-- 1 bhanuteja bhanuteja 218 May  6 00:46 03_variables-conv.sh
+-rw-rw-r-- 1 bhanuteja bhanuteja 202 May  6 00:52 04_dynamic_input.sh
+-rw-rw-r-- 1 bhanuteja bhanuteja  61 May  6 00:58 05_store_disp_cmd_op.sh
+-rw-rw-r-- 1 bhanuteja bhanuteja 112 May  8 22:17 test.log
