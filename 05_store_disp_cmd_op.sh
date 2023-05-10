@@ -1,3 +1,5 @@
-#!/bin/bash
-Date=${date}
-echo "Execution started at ${Date}"
+#! /usr/bin/bash
+
+echo ${DATE}
+
+
